@@ -13,6 +13,9 @@ public class Cajero {
         this.consignar = consignar;
     }
 
+
+    //este es un comentario de prueba para git
+
     public double getSaldo() {
         return saldo;
     }
